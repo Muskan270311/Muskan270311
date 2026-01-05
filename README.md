@@ -1,11 +1,10 @@
-## Hi there 👋
-
-<!--
-**Muskan270311/Muskan270311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
-👋 Hey there! I'm Muskan Singh <br>🌐 Web Developer | Full Stack Explorer  <br>✨ Turning ideas into interactive websites and web apps  <br>🛠️ Tech Stack: HTML, CSS, JS, React, Node.js, Express  <br>🎨 Passionate about 3D web animations, responsive design & smooth UX  <br>🚀 Always learning, building, and sharing projects  <br>📂 Check out my repositories and let's innovate together!
-
+👋 Hey there! I’m Muskan Singh
+🌐 Web Developer | Full Stack Explorer
+✨ Turning ideas into interactive websites and web apps
+🛠️ Tech Stack: HTML, CSS, JS, React, Node.js, Express
+🎨 Passionate about 3D web animations, responsive design & smooth UX
+🚀 Always learning, building, and sharing projects
+📂 Check out my repositories and let’s innovate together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ muskan-singh-308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muskansagar665@gmail.com) 
@@ -42,5 +41,3 @@ Here are some ideas to get you started:# 💫 About Me:
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
